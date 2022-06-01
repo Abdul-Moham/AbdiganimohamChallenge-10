@@ -10,5 +10,5 @@ when answered wrong. time gets deducted
 
 step 3. once all the questions are answered display score
 
-step 4. show a dashboard of all highscores.
+step 4. show a dashboard of all highscores..
 */ 
