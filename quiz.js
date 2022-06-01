@@ -1,5 +1,5 @@
 var introEl= document.querySelector("#intro")
-var
+var 
 
 /* step 1. display the start page - titile and paragraph
 start button = starts the quiz game 
